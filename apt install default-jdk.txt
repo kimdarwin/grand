@@ -1,0 +1,4 @@
+apt install default-jdk
+
+위 JAVA 설치를 docker에 추가하고 싶다면, Dockerfile내에
+RUN sudo apt install default-jdk -y
