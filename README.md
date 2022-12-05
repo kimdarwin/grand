@@ -1,5 +1,6 @@
 # run - batch
 $python 00.py  
+[00.py]  
 import os  
 import requests  
 os.system('python 01ir.py')  
@@ -7,9 +8,8 @@ os.system('python 02qa.py')
 #os.system('python 03table.py')  
 #os.system('python 04.py')  
 
-
+# install  
 python 3.8~3.9  
-# install
 git clone https://github.com/kimdarwin/grand  
 cd grand  
 mkdir /home/agc2022 #문제 파일(problemsheet.json) 및 문서 파일 복사  
