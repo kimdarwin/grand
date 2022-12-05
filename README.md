@@ -31,9 +31,9 @@ kiwipiepy
 # output  
 Restful 통신과 파일출력을 같이 수행함  
 
-(json을 post방식으로 url에 제출함)
-r = requests.post(url,json=payload)
-print(r.status_code)
+(json을 post방식으로 url에 제출함)  
+r = requests.post(url,json=payload)  
+print(r.status_code)  
 
 [a1odt.json]
 ![image](https://user-images.githubusercontent.com/2725508/205597441-6b1036b4-cf6c-4779-a3ee-36c91b64c80d.png)
