@@ -29,7 +29,7 @@ transformers
 pyodf  
 kiwipiepy  
 
-#각 파일 구조  
+# 각 파일 구조  
 [01ir.py]  
 import ...  
 def ... #주요 함수  
