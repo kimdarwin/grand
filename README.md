@@ -13,7 +13,7 @@ python 3.8~3.9
 git clone https://github.com/kimdarwin/grand  
 cd grand  
 mkdir /home/agc2022  
-cp -r ./dataset /home/agc2022
+cp -r ./dataset /home/agc2022  
 #테스트용 문제 파일(problemsheet.json) 및 문서 복사  
 
 pip install --upgrade pip   
