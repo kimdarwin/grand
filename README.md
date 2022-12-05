@@ -30,10 +30,10 @@ kiwipiepy
 
 # flow
 [01ir.py]  
-![image](https://user-images.githubusercontent.com/2725508/205603901-c3fa110e-4864-450a-a8b7-8c5ba3491cee.png)
+![image](https://user-images.githubusercontent.com/2725508/205604135-740ab851-3f1c-4877-97fc-8bb4ac9cc8b2.png)
 
 [02qa.py]  
-![image](https://user-images.githubusercontent.com/2725508/205603936-fa8128b0-0304-47a1-86c7-e467b5b68463.png)
+![image](https://user-images.githubusercontent.com/2725508/205604198-7c57d153-70dc-484f-8d00-af752a2f0518.png)
 
 # output  
 Restful 통신과 파일출력을 같이 수행함  
