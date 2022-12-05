@@ -1,4 +1,4 @@
-# grand
+# run - batch
 $python 00.py  
 import os  
 import requests  
