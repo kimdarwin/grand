@@ -12,6 +12,9 @@ python 3.8~3.9
 # install
 git clone https://github.com/kimdarwin/grand  
 cd grand  
+mkdir /home/agc2022 #문제 파일(problemsheet.json) 및 문서 파일 복사  
+cp -r ./dataset /home/agc2022
+
 pip install --upgrade pip   
 pip install -r requirements.txt  
 apt install default-jdk  
