@@ -29,6 +29,19 @@ transformers
 pyodf  
 kiwipiepy  
 
+#각 파일 구조  
+[01ir.py]  
+import ...  
+def ... #주요 함수  
+
+url = 'https://api.github.com' #제출할 url 설정  
+
+outj['team_id'] = "" #팀명 설정  
+outj['hash'] = "" #팀 해쉬 설정  
+
+... #나머지 코드 및 제출  
+
+
 # flow
 [01ir.py]  
 ![image](https://user-images.githubusercontent.com/2725508/205604135-740ab851-3f1c-4877-97fc-8bb4ac9cc8b2.png)
