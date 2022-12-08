@@ -3,3 +3,5 @@ konlpy
 transformers
 pyodf
 kiwipiepy
+easynmt
+sacremoses
