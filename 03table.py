@@ -105,7 +105,7 @@ for l in jsons:
         tbl = xmltabletolist(xml)
     #차트
     else:
-        
+        pass;
         #tbl = [ [..], [..] ]
     
     a = {}
