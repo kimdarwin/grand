@@ -28,6 +28,8 @@ konlpy
 transformers  
 pyodf  
 kiwipiepy  
+easynmt  
+sacremoses  
 
 # 각 파일 구조  
 [01ir.py]  
