@@ -6,8 +6,8 @@ import os
 import requests  
 os.system('python 01ir.py')  
 os.system('python 02qa.py')  
-#os.system('python 03table.py')  
-#os.system('python 04.py')  
+os.system('python 03table.py')  
+os.system('python 04.py')  
 
 # install  
 python 3.8~3.9  
