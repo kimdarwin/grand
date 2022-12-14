@@ -52,6 +52,10 @@ outj['hash'] = "" #팀 해쉬 설정
 [02qa.py]  
 ![image](https://user-images.githubusercontent.com/2725508/205604198-7c57d153-70dc-484f-8d00-af752a2f0518.png)
 
+[04.py]  
+![image](https://user-images.githubusercontent.com/2725508/207591586-27d668bd-9b6a-4a48-acf7-097dc1d9e661.png)
+
+
 # output  
 Restful 통신과 파일출력을 같이 수행함  
 
