@@ -53,7 +53,7 @@ outj['hash'] = "" #팀 해쉬 설정
 ![image](https://user-images.githubusercontent.com/2725508/205604198-7c57d153-70dc-484f-8d00-af752a2f0518.png)
 
 [04.py]  
-![image](https://user-images.githubusercontent.com/2725508/207591925-68e96e4c-bb34-492b-b60e-4f3feb1c4bf7.png)
+![image](https://user-images.githubusercontent.com/2725508/207592158-72db70ec-69d8-4edc-998b-473c8339cc9d.png)
 
 
 # output  
